@@ -1,3 +1,3 @@
 # Jay
 this is my first reposatory
-author - jayendra
+author - jayendra pratap singh 
